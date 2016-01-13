@@ -7,3 +7,14 @@ C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\seleniumTes
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.xml
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\seleniumTest\obj\Debug\seleniumTest.dll
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\seleniumTest\obj\Debug\seleniumTest.pdb
+C:\Git\seleniumTest\seleniumTest\bin\Debug\chromedriver.exe
+C:\Git\seleniumTest\seleniumTest\bin\Debug\seleniumTest.dll
+C:\Git\seleniumTest\seleniumTest\bin\Debug\seleniumTest.pdb
+C:\Git\seleniumTest\seleniumTest\bin\Debug\nunit.framework.dll
+C:\Git\seleniumTest\seleniumTest\bin\Debug\WebDriver.dll
+C:\Git\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Git\seleniumTest\seleniumTest\bin\Debug\nunit.framework.xml
+C:\Git\seleniumTest\seleniumTest\bin\Debug\WebDriver.xml
+C:\Git\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.xml
+C:\Git\seleniumTest\seleniumTest\obj\Debug\seleniumTest.dll
+C:\Git\seleniumTest\seleniumTest\obj\Debug\seleniumTest.pdb

@@ -9,3 +9,16 @@ C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\TestSeleniu
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\TestSelenium_driver\obj\Debug\TestSelenium_driver.csprojResolveAssemblyReference.cache
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\TestSelenium_driver\obj\Debug\TestSelenium_driver.exe
 C:\Users\Mohammed\Documents\Visual Studio 2012\Projects\seleniumTest\TestSelenium_driver\obj\Debug\TestSelenium_driver.pdb
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\TestSelenium_driver.exe.config
+C:\Git\seleniumTest\TestSelenium_driver\obj\Debug\TestSelenium_driver.exe
+C:\Git\seleniumTest\TestSelenium_driver\obj\Debug\TestSelenium_driver.pdb
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\chromedriver.exe
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\TestSelenium_driver.exe
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\TestSelenium_driver.pdb
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\seleniumTest.dll
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\WebDriver.dll
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\seleniumTest.pdb
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\WebDriver.xml
+C:\Git\seleniumTest\TestSelenium_driver\obj\Debug\TestSelenium_driver.csprojResolveAssemblyReference.cache
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\nunit.framework.dll
+C:\Git\seleniumTest\TestSelenium_driver\bin\Debug\nunit.framework.xml
